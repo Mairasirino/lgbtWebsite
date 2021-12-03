@@ -1,0 +1,38 @@
+body {
+  font-family: 'Yuji Boku', serif;
+  margin: auto;
+  width: 50%;
+  padding-bottom: 20em;
+}
+header {
+  display: flex;
+  align-items: center;
+}
+.img-header {
+  width: 10vw;
+}
+#page-title {
+  width: 15vw;
+  margin: 3rem;
+}
+#emisue {
+  margin: auto;
+  width: 50%;
+  box-shadow: 5px 5px 5px 5px #888888;
+  padding: 2em;
+}
+
+#emisue-title {
+  margin: auto;
+  width: 50%;
+}
+
+.watch {
+  margin-left: 7em;
+  margin-bottom: 3em;
+  color: #000;
+  font-weight: 500;
+  border-radius: 3em;
+
+  text-decoration: none;
+}
